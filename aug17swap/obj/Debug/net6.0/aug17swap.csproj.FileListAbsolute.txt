@@ -1,0 +1,15 @@
+C:\Users\saivignesh\source\repos\aug17swap\aug17swap\bin\Debug\net6.0\aug17swap.exe
+C:\Users\saivignesh\source\repos\aug17swap\aug17swap\bin\Debug\net6.0\aug17swap.deps.json
+C:\Users\saivignesh\source\repos\aug17swap\aug17swap\bin\Debug\net6.0\aug17swap.runtimeconfig.json
+C:\Users\saivignesh\source\repos\aug17swap\aug17swap\bin\Debug\net6.0\aug17swap.dll
+C:\Users\saivignesh\source\repos\aug17swap\aug17swap\bin\Debug\net6.0\aug17swap.pdb
+C:\Users\saivignesh\source\repos\aug17swap\aug17swap\obj\Debug\net6.0\aug17swap.csproj.AssemblyReference.cache
+C:\Users\saivignesh\source\repos\aug17swap\aug17swap\obj\Debug\net6.0\aug17swap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saivignesh\source\repos\aug17swap\aug17swap\obj\Debug\net6.0\aug17swap.AssemblyInfoInputs.cache
+C:\Users\saivignesh\source\repos\aug17swap\aug17swap\obj\Debug\net6.0\aug17swap.AssemblyInfo.cs
+C:\Users\saivignesh\source\repos\aug17swap\aug17swap\obj\Debug\net6.0\aug17swap.csproj.CoreCompileInputs.cache
+C:\Users\saivignesh\source\repos\aug17swap\aug17swap\obj\Debug\net6.0\aug17swap.dll
+C:\Users\saivignesh\source\repos\aug17swap\aug17swap\obj\Debug\net6.0\refint\aug17swap.dll
+C:\Users\saivignesh\source\repos\aug17swap\aug17swap\obj\Debug\net6.0\aug17swap.pdb
+C:\Users\saivignesh\source\repos\aug17swap\aug17swap\obj\Debug\net6.0\aug17swap.genruntimeconfig.cache
+C:\Users\saivignesh\source\repos\aug17swap\aug17swap\obj\Debug\net6.0\ref\aug17swap.dll
